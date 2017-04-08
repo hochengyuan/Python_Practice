@@ -39,6 +39,7 @@ during
 each
 few
 for
+forth
 from
 further
 had
@@ -76,7 +77,9 @@ it
 it's
 its
 itself
+less
 let's
+may
 me
 more
 most
@@ -89,6 +92,7 @@ not
 of
 off
 on
+one
 once
 only
 or
@@ -101,6 +105,7 @@ out
 over
 own
 same
+shall
 shan't
 she
 she'd
@@ -110,6 +115,7 @@ should
 shouldn't
 so
 some
+still
 such
 than
 that
@@ -130,7 +136,10 @@ they're
 they've
 this
 those
+though
 through
+thus
+till
 to
 too
 under
@@ -163,6 +172,7 @@ with
 won't
 would
 wouldn't
+yet
 you
 you'd
 you'll
@@ -172,3 +182,4 @@ your
 yours
 yourself
 yourselves
+us
